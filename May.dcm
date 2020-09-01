@@ -1,0 +1,63 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 2716D
+D 2048Words x 8bit EEPROM
+$ENDCMP
+#
+$CMP ATSAML11D14A-YUT
+D Ultra Low-Power, 32-bit Cortex-M23 MCUs with TrustZone, Crypto, and Enhanced PTC
+F http://ww1.microchip.com/downloads/en/DeviceDoc/SAM-L10L11-Family-DataSheet-DS60001513F.pdf
+$ENDCMP
+#
+$CMP GD32E230F8P6TR
+D ARM®Cortex®-M23 32-bit MCU
+$ENDCMP
+#
+$CMP GD32E231C8T6
+D ARM®Cortex®-M23 32-bit MCU
+$ENDCMP
+#
+$CMP HT32F0006
+D 32-Bit Arm® Cortex®-M0+ Microcontroller with 32-channel Music Synthesizer up to 128 KB Flash and 16 KB SRAM with Music Synthesis Engine (MIDI Engine), DAC, 1 MSPS ADC, USART, UART, SPI, QSPI, I2C, I2S, GPTM, SCTM, BFTM, CRC, RTC, WDT and USB2.0 FS  
+F https://www.holtek.com/documents/10179/116711/HT32F0006_Datasheetv100.pdf
+$ENDCMP
+#
+$CMP LPC5512JBD64E
+D 32-bit Arm Cortex®-M33, TrustZone, PRINCE, CASPER, 96 KB SRAM; 256 KB flash, USB HS, Flexcomm Interface, CAN FD, 32-bit counter/ timers, SCTimer/PWM, PLU, 16-bit 2.0 Msamples/sec ADC, Comparator, Temperature Sensor, AES, PUF, SHA, CRC, RNG
+F https://www.nxp.com/docs/en/nxp/data-sheets/LPC55S1x_PDS.pdf
+$ENDCMP
+#
+$CMP LPC55S14JBD64E
+D 32-bit Arm Cortex®-M33; M33 coprocessor, TrustZone, PowerQuad, CASPER, 320 KB SRAM; 640 KB flash, USB HS, Flexcomm Interface, SDIO, 32-bit counter/ timers, SCTimer/PWM, PLU, 16-bit 1.0 Msamples/sec ADC, Comparator, Temperature Sensor, AES, PUF, SHA, CRC, RNG
+F https://www.nxp.com/docs/en/nxp/data-sheets/LPC55S1x_PDS.pdf
+$ENDCMP
+#
+$CMP LPC55S66JBD64K
+D 32-bit Arm Cortex®-M33; M33 coprocessor, TrustZone, PowerQuad, CASPER, 320 KB SRAM; 640 KB flash, USB HS, Flexcomm Interface, SDIO, 32-bit counter/ timers, SCTimer/PWM, PLU, 16-bit 1.0 Msamples/sec ADC, Comparator, Temperature Sensor, AES, PUF, SHA, CRC, RNG
+F https://www.nxp.com/docs/en/data-sheet/LPC55S6x.pdf
+$ENDCMP
+#
+$CMP STM32L552CCT6
+D Ultra-low-power with FPU Arm Cortex-M33 with Trust Zone, MCU 110 MHz with 256 kbytes of Flash memory
+$ENDCMP
+#
+$CMP TC55257DPL-85L
+D 32768-Word by 8-bit Static RAM
+F http://pages.hmc.edu/harris/class/e155/06/sram32x8.pdf
+$ENDCMP
+#
+$CMP YM2151
+D FM Operator Type-M (OPM)
+F http://map.grauw.nl/resources/sound/yamaha_ym2151_datasheet.pdf
+$ENDCMP
+#
+$CMP YM2413
+D FM Operator Type-LL (OPLL)
+F http://map.grauw.nl/resources/sound/yamaha_ym2413_ds.pdf
+$ENDCMP
+#
+$CMP YMZ294-D
+D YM2149 Compatible 3xSSG Sound Generator
+$ENDCMP
+#
+#End Doc Library
