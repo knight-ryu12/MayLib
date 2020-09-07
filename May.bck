@@ -18,7 +18,7 @@ D ARM®Cortex®-M23 32-bit MCU
 $ENDCMP
 #
 $CMP HT32F0006
-D 32-Bit Arm® Cortex®-M0+ Microcontroller with 32-channel Music Synthesizer up to 128 KB Flash and 16 KB SRAM with Music Synthesis Engine (MIDI Engine), DAC, 1 MSPS ADC, USART, UART, SPI, QSPI, I2C, I2S, GPTM, SCTM, BFTM, CRC, RTC, WDT and USB2.0 FS
+D 32-Bit Arm® Cortex®-M0+ Microcontroller with 32-channel Music Synthesizer up to 128 KB Flash and 16 KB SRAM with Music Synthesis Engine (MIDI Engine), DAC, 1 MSPS ADC, USART, UART, SPI, QSPI, I2C, I2S, GPTM, SCTM, BFTM, CRC, RTC, WDT and USB2.0 FS  
 F https://www.holtek.com/documents/10179/116711/HT32F0006_Datasheetv100.pdf
 $ENDCMP
 #

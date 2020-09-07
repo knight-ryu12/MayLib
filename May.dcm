@@ -4,6 +4,14 @@ $CMP 2716D
 D 2048Words x 8bit EEPROM
 $ENDCMP
 #
+$CMP 4116
+D 16384x1bit DRAM
+$ENDCMP
+#
+$CMP 6502
+D 6502 8-bit Microprocessor
+$ENDCMP
+#
 $CMP ATSAML11D14A-YUT
 D Ultra Low-Power, 32-bit Cortex-M23 MCUs with TrustZone, Crypto, and Enhanced PTC
 F http://ww1.microchip.com/downloads/en/DeviceDoc/SAM-L10L11-Family-DataSheet-DS60001513F.pdf
@@ -18,7 +26,7 @@ D ARM®Cortex®-M23 32-bit MCU
 $ENDCMP
 #
 $CMP HT32F0006
-D 32-Bit Arm® Cortex®-M0+ Microcontroller with 32-channel Music Synthesizer up to 128 KB Flash and 16 KB SRAM with Music Synthesis Engine (MIDI Engine), DAC, 1 MSPS ADC, USART, UART, SPI, QSPI, I2C, I2S, GPTM, SCTM, BFTM, CRC, RTC, WDT and USB2.0 FS  
+D 32-Bit Arm® Cortex®-M0+ Microcontroller with 32-channel Music Synthesizer up to 128 KB Flash and 16 KB SRAM with Music Synthesis Engine (MIDI Engine), DAC, 1 MSPS ADC, USART, UART, SPI, QSPI, I2C, I2S, GPTM, SCTM, BFTM, CRC, RTC, WDT and USB2.0 FS
 F https://www.holtek.com/documents/10179/116711/HT32F0006_Datasheetv100.pdf
 $ENDCMP
 #
@@ -44,6 +52,10 @@ $ENDCMP
 $CMP TC55257DPL-85L
 D 32768-Word by 8-bit Static RAM
 F http://pages.hmc.edu/harris/class/e155/06/sram32x8.pdf
+$ENDCMP
+#
+$CMP TMS9918A
+D TMS9900-Series Video Display Processor
 $ENDCMP
 #
 $CMP YM2151
