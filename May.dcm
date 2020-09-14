@@ -4,6 +4,10 @@ $CMP 2716D
 D 2048Words x 8bit EEPROM
 $ENDCMP
 #
+$CMP 4004
+D Single chip 4-bit p-channel microprocessor
+$ENDCMP
+#
 $CMP 4116
 D 16384x1bit DRAM
 $ENDCMP
@@ -66,6 +70,10 @@ $ENDCMP
 $CMP YM2413
 D FM Operator Type-LL (OPLL)
 F http://map.grauw.nl/resources/sound/yamaha_ym2413_ds.pdf
+$ENDCMP
+#
+$CMP YMF289B
+D FM Operator-L 3 with 3.3V and I2S Support
 $ENDCMP
 #
 $CMP YMZ294-D
