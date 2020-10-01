@@ -4,6 +4,18 @@ $CMP 2716D
 D 2048Words x 8bit EEPROM
 $ENDCMP
 #
+$CMP 4004
+D Single chip 4-bit p-channel microprocessor
+$ENDCMP
+#
+$CMP 4116
+D 16384x1bit DRAM
+$ENDCMP
+#
+$CMP 6502
+D 6502 8-bit Microprocessor
+$ENDCMP
+#
 $CMP ATSAML11D14A-YUT
 D Ultra Low-Power, 32-bit Cortex-M23 MCUs with TrustZone, Crypto, and Enhanced PTC
 F http://ww1.microchip.com/downloads/en/DeviceDoc/SAM-L10L11-Family-DataSheet-DS60001513F.pdf
@@ -18,7 +30,7 @@ D ARM®Cortex®-M23 32-bit MCU
 $ENDCMP
 #
 $CMP HT32F0006
-D 32-Bit Arm® Cortex®-M0+ Microcontroller with 32-channel Music Synthesizer up to 128 KB Flash and 16 KB SRAM with Music Synthesis Engine (MIDI Engine), DAC, 1 MSPS ADC, USART, UART, SPI, QSPI, I2C, I2S, GPTM, SCTM, BFTM, CRC, RTC, WDT and USB2.0 FS  
+D 32-Bit Arm® Cortex®-M0+ Microcontroller with 32-channel Music Synthesizer up to 128 KB Flash and 16 KB SRAM with Music Synthesis Engine (MIDI Engine), DAC, 1 MSPS ADC, USART, UART, SPI, QSPI, I2C, I2S, GPTM, SCTM, BFTM, CRC, RTC, WDT and USB2.0 FS
 F https://www.holtek.com/documents/10179/116711/HT32F0006_Datasheetv100.pdf
 $ENDCMP
 #
@@ -37,6 +49,11 @@ D 32-bit Arm Cortex®-M33; M33 coprocessor, TrustZone, PowerQuad, CASPER, 320 KB
 F https://www.nxp.com/docs/en/data-sheet/LPC55S6x.pdf
 $ENDCMP
 #
+$CMP SN74AXC4T774PW
+D 4-Bit Dual-Supply Bus Transceiver with Independent Direction Control,Configurable Voltage Translation,and Tri-StateOutputs
+F https://www.ti.com/lit/ds/symlink/sn74axc4t774.pdf?ts=1601526447367&ref_url=https%253A%252F%252Fwww.ti.com%252Fproduct%252FSN74AXC4T774
+$ENDCMP
+#
 $CMP STM32L552CCT6
 D Ultra-low-power with FPU Arm Cortex-M33 with Trust Zone, MCU 110 MHz with 256 kbytes of Flash memory
 $ENDCMP
@@ -44,6 +61,10 @@ $ENDCMP
 $CMP TC55257DPL-85L
 D 32768-Word by 8-bit Static RAM
 F http://pages.hmc.edu/harris/class/e155/06/sram32x8.pdf
+$ENDCMP
+#
+$CMP TMS9918A
+D TMS9900-Series Video Display Processor
 $ENDCMP
 #
 $CMP YM2151
@@ -54,6 +75,10 @@ $ENDCMP
 $CMP YM2413
 D FM Operator Type-LL (OPLL)
 F http://map.grauw.nl/resources/sound/yamaha_ym2413_ds.pdf
+$ENDCMP
+#
+$CMP YMF289B
+D FM Operator-L 3 with 3.3V and I2S Support
 $ENDCMP
 #
 $CMP YMZ294-D

@@ -49,6 +49,11 @@ D 32-bit Arm Cortex®-M33; M33 coprocessor, TrustZone, PowerQuad, CASPER, 320 KB
 F https://www.nxp.com/docs/en/data-sheet/LPC55S6x.pdf
 $ENDCMP
 #
+$CMP SN74AXC4T774PW
+D 4-Bit Dual-Supply Bus Transceiver with Independent Direction Control,Configurable Voltage Translation,and Tri-StateOutputs
+F https://www.ti.com/lit/ds/symlink/sn74axc4t774.pdf?ts=1601526447367&ref_url=https%253A%252F%252Fwww.ti.com%252Fproduct%252FSN74AXC4T774
+$ENDCMP
+#
 $CMP STM32L552CCT6
 D Ultra-low-power with FPU Arm Cortex-M33 with Trust Zone, MCU 110 MHz with 256 kbytes of Flash memory
 $ENDCMP
